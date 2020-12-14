@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: white;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: cyan;
     border-radius: 0;
     border: 0;
 }
@@ -41,11 +41,11 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    /*text-shadow: 1px 1px 1px #fe9797;*/
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: cyan;
 }
 
 #nav-list a {
