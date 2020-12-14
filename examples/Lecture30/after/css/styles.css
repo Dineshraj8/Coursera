@@ -18,9 +18,8 @@ body {
   height: 150px;
   margin: 10px 15px 10px 0;
 }
-
-.navbar-brand {
-  padding-top: 25px;
+.navbar-brand{
+  padding-top:25px;
 }
 
 .navbar-brand h1 { /* Restaurant name */
@@ -45,4 +44,3 @@ body {
 }
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
-}
